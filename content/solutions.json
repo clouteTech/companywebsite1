@@ -1,0 +1,134 @@
+{
+  "technology": {
+    "metadata": {
+      "title": "Technology | Cloute Technologies",
+      "description": "A guided tour of the technologies behind Cloute Technologies' networking, cloud, software, cybersecurity and managed IT services — AI, cloud, DevOps, security, containers and observability.",
+      "alternates": {
+        "canonical": "/technology"
+      }
+    },
+    "stages": [
+      {
+        "id": "stage-ai",
+        "label": "AI & Machine Learning"
+      },
+      {
+        "id": "stage-cloud",
+        "label": "Cloud Computing"
+      },
+      {
+        "id": "stage-devops",
+        "label": "DevOps & CI/CD"
+      },
+      {
+        "id": "stage-security",
+        "label": "Cybersecurity"
+      },
+      {
+        "id": "stage-containers",
+        "label": "Containers & Kubernetes"
+      },
+      {
+        "id": "stage-observability",
+        "label": "Data & Observability"
+      }
+    ],
+    "StageIntro": {
+      "text01_stage": "Stage "
+    },
+    "Connection": {
+      "text01_where_it_meets_our": "Where it meets our work"
+    },
+    "TechnologyPage": {
+      "text01_technology_keynote": " · Technology Keynote",
+      "text02_the_technology_behind_every": "The Technology Behind Every Solution",
+      "text03_six_stages_one_story": "Six stages, one story: how the technologies behind our networking, cloud, software, cybersecurity and managed IT services fit together — explained the way we would on stage.",
+      "text04_explore_technology": "Explore Technology",
+      "text05_talk_to_an_expert": "Talk to an Expert",
+      "title06_systems_that_learn_from": "Systems That Learn From Data",
+      "lead07_machine_learning_models_find": "Machine learning models find patterns in large volumes of data and use them to predict, classify and automate. Signals flow through layers of a neural network, each one refining the result — the same idea that powers intelligent automation and modern threat analytics.",
+      "item08_our_threat_detection_uses": "Our threat detection uses AI-driven analytics with advanced SIEM tools to spot suspicious activity before it disrupts your business.",
+      "item09_our_advisors_include_an": "Our advisors include an AI & ML data science consultant and leaders driving work in AI, blockchain and cloud computing.",
+      "label10_see_ai_driven_threat": "See AI-driven threat detection",
+      "title11_infrastructure_without_limits": "Infrastructure Without Limits",
+      "lead12_cloud_computing_turns_servers": "Cloud computing turns servers, storage and networks into services you scale on demand. Traffic is balanced across regions, data is replicated for resilience, and capacity grows with your business instead of ahead of it.",
+      "item13_cloud_migration_with_a": "Cloud migration with a customised roadmap and minimal downtime.",
+      "item14_infrastructure_platform_and_software": "Infrastructure, platform and software as a service — IaaS, PaaS and SaaS.",
+      "item15_hybrid_and_multi_cloud": "Hybrid and multi-cloud management across AWS, Azure and Google Cloud.",
+      "item16_cloud_backup_and_disaster": "Cloud backup and disaster recovery for business continuity.",
+      "label17_explore_cloud_services": "Explore Cloud Services",
+      "title18_from_commit_to_production": "From Commit to Production",
+      "lead19_devops_joins_development_and": "DevOps joins development and operations into one continuous flow. Every change is planned, built, tested and deployed automatically through a CI/CD pipeline — then monitored, so feedback flows straight back into the next release.",
+      "title20_structured_delivery": "Structured delivery",
+      "text21_requirement_analysis_agile_developme": "Requirement analysis, agile development and rigorous testing on every project.",
+      "title22_testing_quality_assurance": "Testing & quality assurance",
+      "text23_functional_performance_and_security": "Functional, performance and security testing that follows global standards.",
+      "title24_cloud_native_software": "Cloud-native software",
+      "text25_cloud_based_applications_apis": "Cloud-based applications, APIs and legacy modernisation built for scale.",
+      "text26_explore_software_development": "Explore Software Development",
+      "title27_defence_in_every_layer": "Defence in Every Layer",
+      "lead28_modern_security_is_layered": "Modern security is layered: verify every identity, encrypt every byte, watch every network — and respond the moment something looks wrong. Threats are detected and stopped before they reach what matters.",
+      "item29_threat_detection_and_response": "Threat detection and response with 24/7 monitoring.",
+      "item30_identity_and_access_management": "Identity and access management with multi-factor authentication and single sign-on.",
+      "item31_enterprise_grade_encryption_at": "Enterprise-grade encryption at rest and in transit.",
+      "item32_firewalls_intrusion_detection_and": "Firewalls, intrusion detection and endpoint protection on every device.",
+      "label33_explore_cybersecurity_services": "Explore Cybersecurity Services",
+      "title34_applications_that_run_anywhere": "Applications That Run Anywhere",
+      "lead35_containers_package_an_application": "Containers package an application with everything it needs, so it runs the same on a laptop, in a data centre or in the cloud. Kubernetes orchestrates them across a cluster — scheduling, self-healing and scaling automatically.",
+      "item36_an_image_bundles_code": "An image bundles code, runtime and dependencies into one portable unit.",
+      "item37_the_control_plane_places": "The control plane places pods on healthy nodes and replaces any that fail.",
+      "item38_replicas_are_added_or": "Replicas are added or removed as demand changes, without downtime.",
+      "item39_cloud_native_application_development": "Cloud-native application development designed to use the full potential of the cloud.",
+      "item40_hybrid_cloud_solutions_with": "Hybrid cloud solutions with secure data mobility between private and public environments.",
+      "item41_multi_cloud_management_with": "Multi-cloud management with unified visibility, governance and optimisation.",
+      "label42_explore_cloud_services": "Explore Cloud Services",
+      "title43_see_everything_fix_it": "See Everything, Fix It Faster",
+      "lead44_observability_brings_metrics_logs": "Observability brings metrics, logs and traces together, so teams can see how systems behave in real time, trace a slow request to its cause and resolve issues before users notice.",
+      "text45_illustration_sample_data_for": "Illustration — sample data for explanation only.",
+      "item46_24_7_monitoring_and": "24/7 monitoring and real-time issue detection that resolves problems before they disrupt operations.",
+      "item47_proactive_system_monitoring_and": "Proactive system monitoring and maintenance across your IT infrastructure.",
+      "item48_help_desk_management_with": "Help desk management with ticket tracking and performance analytics.",
+      "label49_explore_managed_it_services": "Explore Managed IT Services",
+      "text50_q_a": "Q & A",
+      "text51_questions_after_the_keynote": "Questions After the Keynote?",
+      "text52_talk_to_our_team": "Talk to our team about the technology your business needs next.",
+      "text53_contact_us": "Contact Us"
+    }
+  },
+  "techDiagrams": {
+    "NeuralNetDiagram": {
+      "arialabel01_diagram_of_a_neural": "Diagram of a neural network: input, two hidden layers and an output layer"
+    },
+    "CloudDiagram": {
+      "arialabel01_cloud_architecture_users_reach": "Cloud architecture: users reach a load balancer that distributes traffic to two regions backed by replicated storage",
+      "text02_users": "USERS",
+      "text03_load_balancer": "LOAD BALANCER",
+      "label04_region_a": "REGION A",
+      "label05_region_b": "REGION B",
+      "text06_replicated_data": "REPLICATED DATA"
+    },
+    "PipelineDiagram": {
+      "arialabel01_ci_cd_pipeline_plan": "CI/CD pipeline: plan, code, build, test, deploy, monitor — and back to plan",
+      "text02_continuous_feedback_loop": "Continuous feedback loop"
+    },
+    "SecurityRadar": {
+      "arialabel01_security_radar_a_protected": "Security radar: a protected core inside layered defences, with incoming threats detected and blocked"
+    },
+    "ClusterDiagram": {
+      "label01_node_1": "Node 1",
+      "label02_node_2": "Node 2",
+      "label03_node_3": "Node 3",
+      "arialabel04_kubernetes_cluster_a_control": "Kubernetes cluster: a control plane schedules containers in pods across three worker nodes, replacing and scaling them automatically",
+      "text05_control_plane": "Control plane",
+      "text06_schedules_heals_scales": "Schedules · Heals · Scales",
+      "text07_1": "+1"
+    },
+    "ObservabilityDashboard": {
+      "arialabel01_illustrative_observability_dashboard": "Illustrative observability dashboard showing a metrics chart, a live log stream and a request trace",
+      "text02_metrics": "Metrics",
+      "text03_live": "Live",
+      "text04_logs": "Logs",
+      "text05_trace": "Trace"
+    }
+  }
+}

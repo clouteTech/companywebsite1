@@ -1,0 +1,87 @@
+{
+  "googleReviews": {
+    "GoogleReviews": {
+      "eyebrow": "Testimonials",
+      "title": "Trusted by customers, in their own words",
+      "text": "Reviews from the businesses and institutions we have worked with, taken from our Google Business Profile.",
+      "badge": "Google Reviews",
+      "arialabel_stars": "Rated 5 out of 5",
+      "local_guide": "Local Guide",
+      "owner_reply": "Response from Cloute Technologies",
+      "cta": "Read all reviews on Google",
+      "url": "https://www.google.com/search?q=cloute+technologies",
+      "previous": "Previous review",
+      "next": "Next review",
+      "show_review": "Show review by",
+      "play": "Play automatic rotation",
+      "pause": "Pause automatic rotation"
+    },
+    "reviews": [
+      {
+        "name": "Jaimin Patel",
+        "rating": 5,
+        "text": "Excellent service and very professional team! Cloute Technologies has provided great IT support and reliable solutions. The team is knowledgeable, responsive, and always ready to help whenever needed."
+      },
+      {
+        "name": "Swa J",
+        "rating": 5,
+        "text": "Cloute Technologies is the best software development company in India. Their team delivered our custom business application on time with excellent quality. They also provide the best IT support in India with quick response and professional service. Highly recommended for reliable IT solutions.",
+        "reply": "Thank you for your valuable feedback. We truly appreciate your support!"
+      },
+      {
+        "name": "Srinivasan Ragavendiran",
+        "localGuide": true,
+        "rating": 5,
+        "text": "Excellent skill people 👍. Right people to deliver projects on Time. Thanks Mr.Govind all ur support."
+      },
+      {
+        "name": "Anisha Benny",
+        "rating": 5,
+        "text": "Cloute Technologies is a good and reliable company with supportive staff and smooth communication.",
+        "reply": "Thank you for your valuable feedback. We truly appreciate your support!"
+      },
+      {
+        "name": "Ramachandran S Grdcs SAN Head",
+        "rating": 5,
+        "text": "For our Institutions we have been purchasing the HP desktops & Dell products in Colute Technologies. Good service support also they give.",
+        "reply": "Thank you for your valuable feedback. We truly appreciate your support!"
+      },
+      {
+        "name": "Harishvar S",
+        "rating": 5,
+        "text": "An excellent place to work and reliable supplier"
+      },
+      {
+        "name": "subramani Rao",
+        "rating": 5,
+        "text": "Cloute technologies is one of the best IT vendor of our Envision Energy\nThey have the best services and support",
+        "reply": "Thank you for your valuable feedback. We truly appreciate your support!"
+      },
+      {
+        "name": "Lokesh K",
+        "rating": 5,
+        "text": "Cloute technologies\nThey have the best services and support",
+        "reply": "Thank you for your valuable feedback. We truly appreciate your support!"
+      },
+      {
+        "name": "Naveen K",
+        "rating": 5,
+        "text": "Excellence deals in all the computers laptops & peripherals",
+        "reply": "Thank you for your valuable feedback. We truly appreciate your support!"
+      },
+      {
+        "name": "Narendra Kumar",
+        "localGuide": true,
+        "rating": 5,
+        "text": "Fantastic service",
+        "reply": "Thank you for your valuable feedback."
+      },
+      {
+        "name": "SURESH SHAN",
+        "rating": 5,
+        "text": "Happy customer timely services providing valuable solutions, good to go, Rgds DrsAs",
+        "reply": "Thank you for your valuable feedback. We truly appreciate your support!"
+      }
+    ]
+  }
+}

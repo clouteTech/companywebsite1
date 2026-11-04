@@ -1,0 +1,45 @@
+{
+  "siteHeader": {
+    "SiteHeader": {
+      "arialabel01_main": "Main",
+      "text02_home": "Home",
+      "text03_services": "Services",
+      "text04_explore": "Explore",
+      "text05_all_services": "All Services",
+      "text06_get_started": "Get Started",
+      "arialabel07_menu": "Menu",
+      "text08_menu": "Menu",
+      "arialabel09_site_menu": "Site menu",
+      "text10_close_menu": "Close menu",
+      "text11_home": "Home",
+      "text12_services": "Services",
+      "text13_get_started": "Get Started"
+    }
+  },
+  "topBar": {
+    "announcements": {
+      "i0_text": "New: Digital Marketing services",
+      "i1_text": "Business laptops, servers & accessories — request a quote",
+      "i2_text": "Hiring IT talent? Talk to our recruitment team"
+    },
+    "TopBar": {
+      "arialabel01_follow_us": "Follow us",
+      "text02_follow_us": "Follow us",
+      "arialabel03_announcements": "Announcements"
+    }
+  },
+  "callMenu": {
+    "CallMenu": {
+      "arialabel01_choose_how_to_call": "Choose how to call",
+      "text02_how_would_you_like": "How would you like to call?",
+      "text03_phone_call": "Phone call",
+      "text04_whatsapp_call": "WhatsApp call",
+      "text05_opens_chat_tap": "Opens chat · tap 📞"
+    }
+  },
+  "languageSelect": {
+    "LanguageSelect": {
+      "text01_language": "Language"
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "products": {
+    "metadata": {
+      "title": "IT Hardware Companies in India | Cloute Technologies",
+      "description": "Cloute Technologies is one of the top IT Hardware Companies in India providing high-performance computers, servers, network devices & software solutions for businesses.",
+      "alternates": {
+        "canonical": "/products"
+      }
+    },
+    "products": {
+      "i0_title": "Network Devices & Infrastructure",
+      "i0_products": "Routers, switches, firewalls, and wireless access points.",
+      "i0_services": "Sales, distribution, installation, and Annual Maintenance Contracts (AMC).",
+      "i0_benefit": "Build a seamless and secure network foundation with advanced devices from leading brands, backed by expert support and proactive maintenance.",
+      "i1_title": "Servers & Storage Solutions",
+      "i1_products": "High-performance servers, NAS, SAN, and reliable backup systems.",
+      "i1_services": "Sales, distribution, installation, configuration, and AMC.",
+      "i1_benefit": "Scale your business with robust server and storage systems that deliver speed, stability, and data protection.",
+      "i2_title": "Computer Hardware & Peripherals",
+      "i2_products": "Laptops, desktops, printers, and peripherals from trusted brands like HP, Lenovo, and Dell.",
+      "i2_services": "Sales, installation, and annual maintenance support.",
+      "i2_benefit": "Power your business with high-performance hardware designed for productivity, reliability and long-term durability.",
+      "i3_title": "Security & Antivirus Software",
+      "i3_products": "Advanced antivirus and endpoint security solutions from global leaders.",
+      "i3_services": "Licensing, installation, updates, and AMC.",
+      "i3_benefit": "Protect your business from malware, ransomware, and cyber threats through continuous, proactive monitoring.",
+      "i4_title": "Microsoft Products & Software Solutions",
+      "i4_products": "Microsoft Office Suite, Windows OS, and enterprise productivity tools.",
+      "i4_services": "Sales, software licensing, implementation, and AMC.",
+      "i4_benefit": "Enhance productivity and collaboration with genuine Microsoft software and professional licensing support.",
+      "i5_title": "Cloud Services & Solutions",
+      "i5_products": "Cloud storage, SaaS applications, and cloud computing platforms.",
+      "i5_services": "Sales, provisioning, setup, and managed support.",
+      "i5_benefit": "Accelerate business growth with secure, scalable cloud solutions built for flexibility and cost-efficiency."
+    },
+    "hotspots": {
+      "i0_label": "Rack Servers",
+      "i1_label": "Monitors",
+      "i2_label": "Desktops",
+      "i3_label": "NAS Storage",
+      "i4_label": "Network Switches",
+      "i5_label": "Compact PCs"
+    },
+    "deliverySteps": {
+      "i0_title": "Sales & Distribution",
+      "i0_text": "Genuine products from leading brands, matched to your requirements.",
+      "i1_title": "Installation",
+      "i1_text": "Expert installation by our technical team, on-site and on schedule.",
+      "i2_title": "Configuration",
+      "i2_text": "Systems set up and integrated with your existing IT environment.",
+      "i3_title": "AMC Support",
+      "i3_text": "Annual Maintenance Contracts with proactive, expert maintenance."
+    },
+    "ProductsPage": {
+      "text01_trusted_it_hardware_software": "Trusted IT Hardware & Software Solutions Company in India",
+      "text02_empower_your_business_with": "Empower your business with Cloute Technologies — one of the top hardware companies in India and a trusted software solutions company in India. We deliver cutting-edge IT hardware and software products that drive performance, productivity, and digital transformation across industries.",
+      "label03_get_started": "Get Started",
+      "label04_view_products": "View Products",
+      "alt05_servers_switches_storage_and": "Servers, switches, storage and desktop hardware supplied by Cloute Technologies",
+      "arialabel06_hardware_shown": "Hardware shown",
+      "eyebrow07_trusted_it_hardware_software": "Trusted IT Hardware & Software Solutions",
+      "title08_it_hardware_companies_in": "IT Hardware Companies in India",
+      "text09_at_cloute_technologies_we": "At Cloute Technologies, we deliver end-to-end IT hardware and software solutions that empower businesses to perform at their best. As one of the leading hardware companies in India and trusted software solution companies in India, we provide cutting-edge technology products and services designed to enhance efficiency, security, and scalability.",
+      "text10_recognized_among_the_top": "Recognized among the top IT software companies in India, we combine innovation, reliability, and expert support to help businesses across industries achieve their technology goals.",
+      "text11_our_comprehensive_portfolio_includes": "Our comprehensive portfolio includes everything from enterprise-grade computers, servers, and networking devices to advanced software solutions that streamline operations and enable digital growth. Whether you're upgrading your infrastructure or integrating new systems, Cloute Technologies ensures seamless implementation, consistent performance, and unmatched service quality.",
+      "alt12_networking_company_in_bangalore": "Networking company in India ensuring secure connectivity and high-performance network infrastructure",
+      "alt13_business_software_dashboards_supplie": "Business software dashboards supplied and licensed by Cloute Technologies",
+      "text14_brands_we_supply": "Brands We Supply",
+      "label15_hardware_brands_we_supply": "Hardware brands we supply",
+      "eyebrow16_our_products": "Our Products",
+      "title17_complete_hardware_software_portfolio": "Complete Hardware & Software Portfolio",
+      "text18_everything_your_business_needs": "Everything your business needs to build, secure and scale its IT infrastructure — backed by expert installation and AMC support.",
+      "text19_products": "Products",
+      "text20_from_trusted_brands_like": "From trusted brands like HP, Lenovo, and Dell.",
+      "text21_services": "Services",
+      "text22_benefit": "Benefit",
+      "eyebrow23_how_we_deliver": "How We Deliver",
+      "title24_from_order_to_ongoing": "From Order to Ongoing Support",
+      "text25_every_product_line_comes": "Every product line comes with the same complete service — sales, installation, configuration and AMC.",
+      "text26_step": "Step ",
+      "text27_questions_about_our_products": "Questions about our products? Read the FAQ",
+      "title28_need_the_right_hardware": "Need the right hardware for your business?",
+      "text29_talk_to_our_team": "Talk to our team about servers, networking devices, laptops, and software licensing built for your business needs."
+    }
+  }
+}

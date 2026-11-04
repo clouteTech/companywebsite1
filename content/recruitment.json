@@ -1,0 +1,149 @@
+{
+  "recruitment": {
+    "metadata": {
+      "title": "Recruitment Company in India | Cloute Technologies",
+      "description": "Cloute Technologies is a trusted recruitment company in India, helping businesses hire skilled professionals quickly and efficiently across industries.",
+      "alternates": {
+        "canonical": "/recruitment"
+      }
+    },
+    "features": {
+      "i0_title": "Comprehensive Talent Acquisition",
+      "i0_text": "We specialize in sourcing a wide range of talent, from technical and non-technical roles to executive positions. Our tailored approach ensures we meet your diverse hiring needs.",
+      "i1_title": "Industry-Specific Expertise",
+      "i1_text": "Our team's extensive knowledge across various industries allows us to identify the perfect candidates. We understand the unique demands of your sector, ensuring a precise match.",
+      "i2_title": "Quick Turnaround Time",
+      "i2_text": "We quickly find the right candidate, significantly reducing the hiring time. By leveraging our extensive network and advanced recruitment tools, we streamline the hiring process so you fill critical positions with minimal delay.",
+      "i3_title": "Proven Success and Satisfaction",
+      "i3_text": "With a track record of successfully placing top talent in impactful roles, our satisfied clients are a testament to our effectiveness. We are dedicated to delivering excellence and fostering long-term partnerships."
+    },
+    "reasons": {
+      "i0_title": "End-to-End Hiring Solutions",
+      "i0_text": "As a leading recruitment company in India, we provide end-to-end hiring solutions tailored to startups, SMEs, and large enterprises.",
+      "i1_title": "Sourcing, Screening & Onboarding",
+      "i1_text": "From sourcing and screening to interview coordination and onboarding support, our team ensures a smooth hiring process from start to finish.",
+      "i2_title": "Modern Recruitment Tools",
+      "i2_text": "We use modern recruitment tools and platforms like LinkedIn to connect businesses with top talent across industries.",
+      "i3_title": "Customized Hiring Solutions",
+      "i3_text": "We specialize in delivering customized hiring solutions based on your business goals and workforce requirements, aligned with your culture and growth plans."
+    },
+    "pipeline": {
+      "i0_title": "Sourcing",
+      "i1_title": "Screening",
+      "i2_title": "Interview Coordination",
+      "i3_title": "Onboarding"
+    },
+    "RecruitmentPage": {
+      "title01_recruitment_company_in_bangalore": "Recruitment Company in India",
+      "eyebrow02_recruitment": "Recruitment",
+      "tagline03_helping_businesses_hire_skilled": "Helping businesses hire skilled professionals quickly and efficiently — technical, non-technical, and executive talent across industries.",
+      "label04_how_we_help": "How We Help",
+      "alt05_recruitment_company_in_bangalore": "Recruitment company in India celebrating a successful hire",
+      "alt06_recruitment_company_in_bangalore": "Recruitment company in India conducting professional job interviews",
+      "text07_hiring_progress": "Hiring progress",
+      "text08_all_levels_of_talent": "All Levels of Talent",
+      "eyebrow09_recruitment_services": "Recruitment Services",
+      "title10_we_offer_a_unique": "We Offer A Unique Recruitment Service Focused On All Levels of Talent",
+      "text11_cloute_technologies_is_a": "Cloute Technologies is a trusted recruitment company in India, helping businesses hire skilled professionals quickly and efficiently. We specialize in connecting companies with qualified talent across multiple industries, so organizations can build stronger teams and improve productivity with the right hiring strategies.",
+      "text12_get_started": "Get Started",
+      "label13_who_we_hire_for": "Who we hire for",
+      "eyebrow14_what_we_do": "What We Do",
+      "title15_a_recruitment_partner_built": "A Recruitment Partner Built Around Your Hiring Needs",
+      "eyebrow16_our_hiring_process": "Our Hiring Process",
+      "title17_from_sourcing_to_onboarding": "From Sourcing to Onboarding",
+      "text18_from_sourcing_and_screening": "From sourcing and screening to interview coordination and onboarding support, our team ensures a smooth hiring process from start to finish.",
+      "text19_stage": "Stage ",
+      "eyebrow20_why_choose_us": "Why Choose Us",
+      "title21_why_choose_our_recruitment": "Why Choose Our Recruitment Company in India?",
+      "alt22_professional_hiring_solutions_and": "Professional hiring solutions and recruitment team",
+      "text23_sourcing_talent_on_linkedin": "Sourcing talent on LinkedIn",
+      "text24_professional_hiring_solutions_for": "Professional Hiring Solutions for Businesses",
+      "text25_our_recruitment_services_help": "Our recruitment services help organizations find qualified candidates for technical and non-technical roles. We deliver customized hiring solutions based on your business goals and workforce requirements, so companies gain access to skilled professionals who align with their culture and long-term growth plans.",
+      "title26_looking_to_hire_top": "Looking to hire top talent for your business?",
+      "text27_talk_to_our_recruitment": "Talk to our recruitment team about your hiring needs — technical, non-technical, or executive roles."
+    },
+    "board": {
+      "live": "Talent match in action",
+      "sample": "Illustration with sample candidates",
+      "brief": "Job brief",
+      "role": "Backend Developer",
+      "need": [
+        "Python",
+        "APIs",
+        "Teamwork"
+      ],
+      "scanning": "Scanning profiles",
+      "match": "Match",
+      "shortlist": "Shortlist",
+      "interview": "Interview set",
+      "offer": "Offer sent",
+      "joined": "Joined",
+      "candidates": [
+        {
+          "initials": "AK",
+          "skills": [
+            "Python",
+            "APIs"
+          ],
+          "match": false
+        },
+        {
+          "initials": "RS",
+          "skills": [
+            "Python",
+            "APIs"
+          ],
+          "match": true
+        },
+        {
+          "initials": "PM",
+          "skills": [
+            "Sales",
+            "CRM"
+          ],
+          "match": false
+        },
+        {
+          "initials": "NV",
+          "skills": [
+            "Java",
+            "SQL"
+          ],
+          "match": false
+        },
+        {
+          "initials": "SJ",
+          "skills": [
+            "Python",
+            "Teamwork"
+          ],
+          "match": true
+        },
+        {
+          "initials": "DK",
+          "skills": [
+            "Design",
+            "UX"
+          ],
+          "match": false
+        },
+        {
+          "initials": "LT",
+          "skills": [
+            "APIs",
+            "Teamwork"
+          ],
+          "match": true
+        },
+        {
+          "initials": "MR",
+          "skills": [
+            "Support",
+            "Excel"
+          ],
+          "match": false
+        }
+      ]
+    }
+  }
+}

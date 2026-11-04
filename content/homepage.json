@@ -1,0 +1,287 @@
+{
+  "faqs": {
+    "homeFaqs": [
+      {
+        "q": "Which company provides IT hardware and software solutions in India?",
+        "a": "Cloute Technologies Private Limited, based in HSR Layout, Bengaluru, provides both IT hardware and software services. These include laptops, servers, storage and networking equipment; custom software development; IT infrastructure; support; managed IT; cybersecurity; cloud solutions; software licensing; and IT recruitment."
+      },
+      {
+        "q": "Does Cloute Technologies develop custom software?",
+        "a": "Yes. We develop custom software, web applications, business applications, dashboards and workflow automation. Projects begin with requirement analysis so the solution matches your processes and integrates with the tools you already use."
+      },
+      {
+        "q": "Can I buy corporate laptops and servers from Cloute Technologies?",
+        "a": "Yes. We supply business laptops, desktops, workstations, servers and storage from brands such as HP, Dell, Lenovo and Apple, among others. Share your quantity, specifications and delivery location to receive a quotation."
+      },
+      {
+        "q": "What networking and IT infrastructure services do you offer?",
+        "a": "We plan, supply and install switches, routers, firewalls, wireless networks and structured cabling for offices and enterprise facilities, and provide ongoing support for the network."
+      },
+      {
+        "q": "What does your IT support and helpdesk service include?",
+        "a": "It covers troubleshooting, desktop and device support, software installation, updates and routine maintenance. Contact us to discuss support coverage and response arrangements for your business."
+      },
+      {
+        "q": "What are managed IT services, and who needs them?",
+        "a": "Managed IT services mean an external team monitors, maintains and supports your IT environment on a continuing basis. They suit businesses without a full in-house IT department, or those wanting predictable support and fewer disruptions."
+      },
+      {
+        "q": "Do you provide cybersecurity and cloud solutions?",
+        "a": "Yes. Our cybersecurity services cover firewalls, endpoint protection and network security. Our cloud services cover infrastructure setup, migration and management, including Microsoft cloud solutions."
+      },
+      {
+        "q": "How do I request a quotation?",
+        "a": "Use the Get a Quote button, the contact page or email sales@cloute.co.in with your requirement (products or project scope, quantity, timeline and location). Our team will respond with a suitable proposal."
+      }
+    ],
+    "productFaqs": [
+      {
+        "q": "What services do leading hardware companies in India provide?",
+        "a": "Top hardware companies in India offer end-to-end IT infrastructure solutions, including the supply and maintenance of laptops, desktops, servers, network devices, and storage systems. They also provide Annual Maintenance Contracts (AMC), installation support, and IT consulting to ensure smooth business operations."
+      },
+      {
+        "q": "How do software solution companies in India help businesses grow?",
+        "a": "Software solution companies in India design and develop custom software applications that improve business efficiency, automate workflows, and enhance security. They also provide cloud integration, Microsoft licensing, and managed IT services tailored to each company's goals and infrastructure."
+      },
+      {
+        "q": "Why choose an IT hardware company in India for business IT infrastructure?",
+        "a": "Partnering with a trusted IT hardware company in India ensures access to genuine products, expert installation, and reliable AMC services. India-based providers offer quick support, high-quality devices, and scalable infrastructure solutions to meet modern business demands."
+      },
+      {
+        "q": "What types of software and hardware solutions does Cloute Technologies offer?",
+        "a": "Cloute Technologies delivers a wide range of IT hardware and software solutions, including servers, storage systems, routers, antivirus software, Microsoft Office, and cloud solutions. We handle everything from sales and licensing to installation and ongoing maintenance, ensuring complete IT reliability."
+      },
+      {
+        "q": "How can businesses choose the right software solutions company in India?",
+        "a": "When selecting a software solutions company in India, look for expertise in custom development, cloud integration, and enterprise software support. The right partner should provide scalable, secure, and cost-effective software tailored to your organization's specific needs."
+      }
+    ]
+  },
+  "site": {
+    "metadata": {
+      "title": "IT Hardware & Software Solutions in India | Cloute",
+      "description": "Cloute Technologies is an India IT solutions company supplying business laptops, servers and networking gear, plus custom software, cloud and IT support.",
+      "alternates": {
+        "canonical": "/"
+      },
+      "openGraph": {
+        "title": "IT Hardware & Software Solutions in India | Cloute",
+        "description": "Cloute Technologies is an India IT solutions company supplying business laptops, servers and networking gear, plus custom software, cloud and IT support.",
+        "url": "/"
+      }
+    },
+    "services": {
+      "title01_software_development": "Software Development",
+      "text02_custom_software_built_around": "Custom software built around how your business actually works. We develop web applications, business software, dashboards and workflow automation that replace spreadsheets, manual approvals and disconnected tools. You get scalable, maintainable applications that integrate with your existing systems and give your teams clearer data and faster processes.",
+      "cta03_discuss_your_software_project": "Discuss Your Software Project",
+      "alt04_application_source_code_on": "Application source code on a developer's screen",
+      "title05_it_hardware_supply": "IT Hardware Supply",
+      "text06_business_grade_laptops_desktops": "Business-grade laptops, desktops, servers, storage, printers and accessories from established brands, matched to your workload and budget. We help procurement teams compare options, prepare quotations and plan delivery, so every device your staff receives is compatible with your existing environment and ready for work.",
+      "cta07_request_a_hardware_quote": "Request a Hardware Quote",
+      "alt08_business_laptops_and_it": "Business laptops and IT hardware ready for delivery",
+      "title09_networking_it_infrastructure": "Networking & IT Infrastructure",
+      "text10_a_dependable_network_is": "A dependable network is the base for everything else. We plan and install switches, routers, firewalls, Wi-Fi and structured cabling for offices and multi-floor facilities, with clear documentation and a design that can grow as your headcount and applications grow. The result is stable connectivity and fewer interruptions.",
+      "cta11_plan_your_network": "Plan Your Network",
+      "alt12_structured_network_cabling_in": "Structured network cabling in an enterprise patch panel",
+      "title13_it_support_helpdesk": "IT Support & Helpdesk",
+      "text14_when_a_system_fails": "When a system fails, your team needs a quick, clear answer. Our helpdesk and desktop support engineers handle troubleshooting, installations, updates and routine maintenance for users, devices and office networks, keeping downtime short and daily work moving without pulling your staff into technical firefighting.",
+      "cta15_get_it_support": "Get IT Support",
+      "alt16_it_helpdesk_engineer_supporting": "IT helpdesk engineer supporting customers",
+      "title17_managed_it_services": "Managed IT Services",
+      "text18_hand_over_day_to": "Hand over day-to-day IT operations to a team that watches them closely. We manage and monitor your devices, servers, network and software environment, carry out preventive maintenance and respond to issues early, giving you predictable IT management and more time to focus on the business itself.",
+      "cta19_explore_managed_it": "Explore Managed IT",
+      "alt20_it_engineers_monitoring_managed": "IT engineers monitoring managed infrastructure in a server room",
+      "title21_cybersecurity_solutions": "Cybersecurity Solutions",
+      "text22_protect_data_devices_and": "Protect data, devices and users against ransomware, phishing and unauthorised access. We deploy and configure firewalls, endpoint protection and network security controls across offices and remote teams, and help you put sensible security practices in place so critical business information stays protected as your technology environment expands.",
+      "cta23_secure_your_business": "Secure Your Business",
+      "alt24_illuminated_circuitry_representing_c": "Illuminated circuitry representing cybersecurity protection for business data",
+      "title25_cloud_computing_solutions": "Cloud Computing Solutions",
+      "text26_move_to_the_cloud": "Move to the cloud at a pace that suits your business. We support cloud infrastructure setup, workload migration and ongoing management, including Microsoft cloud solutions such as Microsoft 365 and Azure, so your teams can collaborate easily and your applications scale without heavy upfront hardware spend.",
+      "cta27_talk_about_cloud": "Talk About Cloud",
+      "alt28_connected_cities_across_the": "Connected cities across the globe representing cloud computing services",
+      "title29_digital_marketing": "Digital Marketing",
+      "text30_help_more_customers_find": "Help more customers find and choose your business online. We plan and run search engine optimisation, social media marketing, Google Ads, content and email campaigns around clear goals, and report on visitors, enquiries and spend each month, so you can see what your marketing is delivering.",
+      "cta31_grow_your_business_online": "Grow Your Business Online",
+      "alt32_marketing_analytics_dashboard_showin": "Marketing analytics dashboard showing campaign performance",
+      "title33_it_staffing_recruitment": "IT Staffing & Recruitment",
+      "text34_find_technical_talent_without": "Find technical talent without a long search. We help companies hire software developers, network and system engineers, support staff and other IT professionals for their projects and workforce needs, so initiatives stay staffed and your internal team can focus on delivery instead of screening resumes.",
+      "cta35_hire_it_talent": "Hire IT Talent",
+      "alt36_recruiter_interviewing_a_candidate": "Recruiter interviewing a candidate for an IT role"
+    },
+    "hardware": {
+      "i0_title": "Business Laptops & Desktops",
+      "i0_text": "Reliable laptops and desktops for offices, remote teams and new-hire onboarding, in configurations matched to the work your staff do, from everyday productivity to demanding applications.",
+      "i1_title": "Servers & Storage",
+      "i1_text": "Rack, tower and storage systems for file sharing, applications, backups and virtualisation, sized for current workloads with room for growth, for on-premises and hybrid environments.",
+      "i2_title": "Networking Equipment",
+      "i2_text": "Routers, switches, firewalls and wireless access points for secure, high-performance connectivity, supplied and installed to suit your office layout and user count.",
+      "i3_title": "Printers & Peripherals",
+      "i3_text": "Business printers, scanners, displays, conferencing devices and accessories that suit your office setup and work with your existing systems.",
+      "i4_title": "Workstations",
+      "i4_text": "High-performance workstations for design, engineering, development and data-heavy work, configured for the software your professionals depend on.",
+      "i5_title": "Software Licensing",
+      "i5_text": "Microsoft licences, antivirus and endpoint security, and other business software, supplied with guidance on choosing the right licence type and number of users."
+    },
+    "hardwareReasons": {
+      "i0_text": "Hardware selected for performance, reliability and durability",
+      "i1_text": "Compatibility checked against your existing IT environment",
+      "i2_text": "Warranty and support terms confirmed in the quotation, as per the brand and product",
+      "i3_text": "Competitive business pricing",
+      "i4_text": "Installation and technical support available"
+    },
+    "softwareBuilds": {
+      "i0_label": "Custom Software",
+      "i0_text": "Applications designed around your specific operations and rules.",
+      "i1_label": "Web Applications",
+      "i1_text": "Secure, responsive portals for customers, partners and internal teams.",
+      "i2_label": "Business Applications",
+      "i2_text": "Tools for inventory, HR, sales, service management and approvals.",
+      "i3_label": "Dashboards & Reporting",
+      "i3_text": "Live views of your numbers so decisions rely on data, not manual compilations.",
+      "i4_label": "Workflow & Process Automation",
+      "i4_text": "Automated hand-offs, notifications and approvals that reduce repetitive work and errors."
+    },
+    "softwareProblems": [
+      "Data scattered across spreadsheets, email and disconnected tools",
+      "Manual approvals and processes that slow teams down",
+      "No single view of sales, operations or inventory",
+      "Legacy systems that no longer fit how you work",
+      "Customer or partner processes that need a proper online portal"
+    ],
+    "reasons": {
+      "i0_title": "Hardware and Software Under One Roof",
+      "i0_text": "Buy devices, build applications and arrange support with one team, so nothing falls between vendors.",
+      "i1_title": "Business-Focused Recommendations",
+      "i1_text": "We recommend what fits your needs and budget, not the most expensive option.",
+      "i2_title": "Practical Technical Expertise",
+      "i2_text": "Our engineers and developers work across networking, security, cloud and software, so advice covers your whole environment.",
+      "i3_title": "Reliable IT Support",
+      "i3_text": "Hardware, networks and software are backed by responsive technical assistance after delivery.",
+      "i4_title": "Solutions That Scale",
+      "i4_text": "Infrastructure and applications are planned to grow with your staff, locations and workloads.",
+      "i5_title": "Customer-Oriented Approach",
+      "i5_text": "Clear communication, transparent quotations and long-term working relationships."
+    },
+    "audiences": {
+      "i0_title": "Startups",
+      "i0_text": "Cost-conscious laptops, cloud tools and basic security so new teams can start work quickly and add capacity later.",
+      "i1_title": "SMEs",
+      "i1_text": "Structured networks, managed IT, licensing and custom applications that bring order to growing operations.",
+      "i2_title": "Enterprises & Corporate Offices",
+      "i2_text": "Large-scale hardware procurement, multi-site networking, managed services and software for complex environments.",
+      "i3_title": "Businesses Across Industries",
+      "i3_text": "Our solutions can support IT and services companies, manufacturing, education, healthcare, retail, logistics and other sectors that rely on dependable technology."
+    },
+    "steps": {
+      "i0_title": "1. Requirement Analysis",
+      "i0_text": "We learn about your users, locations, existing systems, goals and budget.",
+      "i1_title": "2. Solution Planning",
+      "i1_text": "We recommend suitable hardware, software and infrastructure, with a clear quotation and timeline.",
+      "i2_title": "3. Implementation & Delivery",
+      "i2_text": "We supply, install, configure or develop the agreed solution and test it before handover.",
+      "i3_title": "4. Support & Maintenance",
+      "i3_text": "We remain available for troubleshooting, upkeep and future upgrades."
+    },
+    "HomePage": {
+      "alt01_cloute_technologies_it_team": "Cloute Technologies IT team working on network and software systems",
+      "text02_best_it_software_and": "Best IT Software and Hardware Solutions",
+      "text03_one_partner_for_the": "One Partner for the Technology Your Teams Use and the Software Your Business Runs On",
+      "text04_cloute_technologies_is_a": "Cloute Technologies is an India-based IT solutions company serving startups, SMEs and enterprises. We supply business laptops, servers, storage and networking equipment, and we build custom software, web applications and dashboards. From infrastructure setup and cybersecurity to cloud migration, IT support and technical hiring, you get one accountable partner for the hardware your teams use and the software your business depends on.",
+      "label05_get_a_quote": "Get a Quote",
+      "label06_explore_our_solutions": "Explore Our Solutions",
+      "arialabel07_scroll_to_about_cloute": "Scroll to About Cloute Technologies",
+      "text08_about_cloute_technologies": "About Cloute Technologies",
+      "text09_a_bangalore_it_solutions": "An Indian IT Solutions Company for Hardware, Software and Infrastructure",
+      "text10_cloute_technologies_private_limited": "Cloute Technologies Private Limited is an IT solutions company based in HSR Layout, Bengaluru. We work with startups, growing SMEs, corporate offices and large enterprises that need dependable technology without managing five different vendors.",
+      "text11_on_the_hardware_side": "On the hardware side, we supply business laptops, desktops, servers, storage, printers, workstations and networking equipment from established brands. On the software side, we develop custom applications, web platforms, dashboards and workflow automation. Around both, we provide networking and infrastructure services, IT support, managed IT, cybersecurity, cloud solutions, software licensing and IT recruitment.",
+      "text12_having_these_capabilities_together": "Having these capabilities together means one team understands your full environment. The laptop you buy, the network it connects to, the firewall that protects it and the application your staff use on it are planned as a single system, not as separate purchases.",
+      "text13_our_approach_is_simple": "Our approach is simple: understand the requirement, recommend what fits your budget and growth plans, deliver it properly and stay available afterwards.",
+      "text14_learn_more_about_us": "Learn More About Us",
+      "alt15_cloute_technologies_team_planning": "Cloute Technologies team planning a client's IT setup",
+      "alt16_client_meeting_with_the": "Client meeting with the Cloute Technologies team in India",
+      "alt17_office_infrastructure_plan": "Office infrastructure plan",
+      "text18_hardware_software": "Hardware + Software",
+      "text19_hsr_layout_bengaluru": "HSR Layout, Bengaluru",
+      "text20_one_accountable_partner": "One Accountable Partner",
+      "eyebrow21_our_services": "Our Services",
+      "title22_our_it_solutions_and": "Our IT Solutions and Services in India",
+      "text23_nine_connected_services_covering": "Nine connected services covering what your business buys, builds, secures, supports and promotes.",
+      "alt24_developer_workstation_running_softwa": "Developer workstation running software and network tools",
+      "alt25_it_support_engineer_assisting": "IT support engineer assisting a business user",
+      "alt26_cloud_computing_services_connecting": "Cloud computing services connecting business systems",
+      "text27_connected_services": "Connected Services",
+      "text28_service": "Service ",
+      "eyebrow29_explore_in_3d": "Explore in 3D",
+      "title30_spin_through_our_services": "Spin Through Our Services",
+      "text31_watch_every_service_come": "Watch every service come round, or pick a service on either side to bring it to the front.",
+      "eyebrow32_it_hardware": "IT Hardware",
+      "title33_it_hardware_suppliers_in": "IT Hardware Suppliers in India for Businesses and Enterprises",
+      "text34_source_business_hardware_and": "Source business hardware and software from one supplier. We help you select, quote, deliver and set up products that suit your users, your network and your budget. Brands we supply include HP, Dell, Lenovo, Apple, Cisco, Poly, Epson and Canon.",
+      "text35_01": "01",
+      "text36_explore": "Explore",
+      "text37_brands_platforms": "Brands & Platforms",
+      "label38_laptop_and_hardware_brands": "Laptop and hardware brands we provide",
+      "label39_platforms_we_work_with": "Platforms we work with",
+      "text40_why_businesses_buy_hardware": "Why Businesses Buy Hardware from Us",
+      "label41_request_a_quote": "Request a Quote",
+      "label42_view_all_products": "View All Products",
+      "alt43_business_laptop_supplied_by": "Business laptop supplied by Cloute Technologies",
+      "text44_brands_we_supply": "Brands We Supply",
+      "eyebrow45_software_development": "Software Development",
+      "title46_custom_software_development_company": "Custom Software Development Company in India",
+      "text47_off_the_shelf_tools": "Off-the-shelf tools rarely match how your business really operates. We design and build software that fits your processes, connects with the systems you already use and can be extended as you grow.",
+      "text48_what_we_build": "What We Build",
+      "text49_business_problems_we_help": "Business Problems We Help Solve",
+      "label50_discuss_your_project": "Discuss Your Project",
+      "label51_talk_to_our_experts": "Talk to Our Experts",
+      "eyebrow52_why_choose_us": "Why Choose Us",
+      "title53_why_businesses_choose_cloute": "Why Businesses Choose Cloute Technologies",
+      "alt54_cloute_technologies_team_collaborati": "Cloute Technologies team collaborating on client projects",
+      "text55_one_accountable_partner": "One Accountable Partner",
+      "eyebrow56_who_we_serve": "Who We Serve",
+      "title57_it_solutions_for_startups": "IT Solutions for Startups, SMEs and Enterprises",
+      "text58_technology_needs_change_with": "Technology needs change with the size and nature of a business. We adapt our recommendations accordingly.",
+      "text59_discuss_your_requirement": "Discuss Your Requirement",
+      "eyebrow60_our_process": "Our Process",
+      "title61_how_we_work_with": "How We Work With You",
+      "alt62_cloute_technologies_team_presenting": "Cloute Technologies team presenting a solution plan",
+      "title63_frequently_asked_questions_about": "Frequently Asked Questions About IT Hardware and Software in India",
+      "title64_ready_to_upgrade_your": "Ready to Upgrade Your IT Hardware, Software and Infrastructure?",
+      "text65_tell_us_what_your": "Tell us what your business needs: new laptops or servers, a network rebuild, a custom application, cloud migration, ongoing IT support or technical hires. Cloute Technologies will recommend a practical solution and a clear quotation.",
+      "label66_get_a_quote": "Get a Quote",
+      "label67_talk_to_our_experts": "Talk to Our Experts",
+      "arialabel68_contact_details": "Contact details",
+      "text69_cloute_technologies_private_limited": "Cloute Technologies Private Limited",
+      "label70_address": "Address",
+      "label71_phone": "Phone",
+      "label72_email": "Email",
+      "label73_website": "Website",
+      "text74_https_cloute_co_in": "https://cloute.co.in/"
+    }
+  },
+  "sections": {
+    "Breadcrumbs": {
+      "arialabel01_breadcrumb": "Breadcrumb",
+      "text02_home": "Home"
+    },
+    "PageHero": {
+      "label01_get_started": "Get Started"
+    },
+    "SplitHero": {
+      "label01_get_started": "Get Started"
+    },
+    "LightHero": {
+      "label01_get_started": "Get Started"
+    },
+    "FaqSection": {
+      "eyebrow01_faq_s": "FAQ's",
+      "text02_still_have_questions": "Still have questions?",
+      "text03_talk_to_our_team": "Talk to our team and get a clear answer.",
+      "text04_call_us": "Call us",
+      "text05_contact_us": "Contact us"
+    },
+    "CtaBand": {
+      "label01_contact_us": "Contact Us"
+    }
+  }
+}

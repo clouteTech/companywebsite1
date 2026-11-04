@@ -1,0 +1,136 @@
+{
+  "contact": {
+    "metadata": {
+      "title": "Contact IT Company in India | Cloute Technologies",
+      "description": "Contact IT Company in India for networking, cloud, cybersecurity, and managed IT services. Cloute Technologies provides secure IT solutions across India.",
+      "alternates": {
+        "canonical": "/contact"
+      }
+    },
+    "highlights": {
+      "i0_label": "Server installation",
+      "i1_label": "Firewall configuration",
+      "i2_label": "Structured cabling",
+      "i3_label": "Data backup solutions",
+      "i4_label": "Cloud migration",
+      "i5_label": "24/7 IT helpdesk"
+    },
+    "ContactPage": {
+      "title01_it_company_in_bangalore": "IT Company in India – Contact Cloute Technologies",
+      "tagline02_looking_for_reliable_it": "Looking for reliable IT support, managed services, or cloud solutions in India? Our team provides end-to-end IT hardware, software, networking, and cybersecurity services to keep your business running efficiently and securely.",
+      "imageAlt03_cloute_technologies_office_ready": "Cloute Technologies office ready to welcome clients",
+      "label04_send_a_message": "Send a Message",
+      "text05_get_in_touch_with": "Get in Touch with Cloute Technologies",
+      "text06_visit_our_office": "Visit Our Office",
+      "text07_get_directions": "Get directions",
+      "text08_call_us": "Call Us",
+      "text09_call_now": "Call now",
+      "text10_email_us": "Email Us",
+      "text11_write": "Write",
+      "text12_business_hours": "Business Hours",
+      "text13_monday_friday": "Monday – Friday",
+      "text14_9_00_am_6": "9:00 AM – 6:00 PM",
+      "text15_saturday": "Saturday",
+      "text16_10_00_am_2": "10:00 AM – 2:00 PM",
+      "text17_sunday": "Sunday",
+      "text18_closed": "Closed",
+      "text19_all_times_ist": "All times IST",
+      "eyebrow20_contact_info": "Contact Info",
+      "title21_why_contact_our_it": "Why Contact Our IT Company in India?",
+      "text22_cloute_technologies_is_a": "Cloute Technologies is a reliable IT Company in India offering professional IT support, cybersecurity, cloud solutions, and networking services. If you are looking to contact an experienced IT Company in India, our team is ready to provide fast, secure, and scalable technology solutions tailored to your business needs.",
+      "text23_we_provide_secure_scalable": "We provide secure, scalable, and cost-effective IT services designed to meet industry standards — including server installation, firewall configuration, structured cabling, data backup solutions, cloud migration, and 24/7 IT helpdesk support.",
+      "text24_we_partner_with_globally": "We partner with globally recognized technology brands to deliver high-quality hardware and software solutions. Our proactive monitoring and maintenance services reduce downtime, improve performance, and enhance operational efficiency — which is why we have built a strong reputation as a dependable Networking Company in India.",
+      "alt25_contact_cloute_technologies_it": "Contact Cloute Technologies IT company in India",
+      "eyebrow26_send_us_a_message": "Send Us a Message",
+      "title27_we_re_here_to": "We're Here to Help",
+      "text28_as_a_trusted_it": "As a trusted IT Company in India, we focus on proactive monitoring and quick response times, delivering customized IT infrastructure, secure network management, cloud services, data protection and complete IT support. Fill out the form below and our team will get back to you shortly.",
+      "text29_tell_us_about_your": "Tell us about your requirement",
+      "title30_cloute_technologies_location_map": "Cloute Technologies location map",
+      "text31_cloute_technologies": "Cloute Technologies",
+      "text32_hsr_layout_bengaluru": "HSR Layout, Bengaluru",
+      "text33_directions": "Directions",
+      "text34_talk_to_us_directly": "Talk to us directly",
+      "title35_prefer_to_talk_directly": "Prefer to talk directly?",
+      "text36_call_our_team_for": "Call our team for immediate assistance with your IT needs.",
+      "label37_email_us": "Email Us"
+    }
+  },
+  "contactForm": {
+    "ContactForm": {
+      "text01_thank_you_your_enquiry": "Thank you! Your enquiry has been sent.",
+      "text02_we_ve_received_your": "We've received your request for ",
+      "text03_and_emailed_you_a": " and emailed you a confirmation. Our team will get back to you shortly.",
+      "text04_continue_on_whatsapp": "Continue on WhatsApp",
+      "text05_opens_in_a_new": " (opens in a new tab)",
+      "text06_send_another_message": "Send another message",
+      "text07_whatsapp_opens_with_your": "WhatsApp opens with your enquiry ready; nothing is sent until you press Send.",
+      "text08_website": "Website",
+      "label09_full_name": "Full Name",
+      "placeholder10_your_full_name": "Your full name",
+      "label11_phone_number": "Phone Number",
+      "placeholder12_91_00000_00000": "+91 00000 00000",
+      "label13_email_address": "Email Address",
+      "placeholder14_you_company_com": "you@company.com",
+      "text15_service_needed": "Service Needed",
+      "label16_message": "Message",
+      "placeholder17_tell_us_about_your": "Tell us about your requirement...",
+      "text18_something_went_wrong_sending": "Something went wrong sending your message. Please try again, or call us directly at"
+    }
+  },
+  "contactExtras": {
+    "OpenStatus": {
+      "text01_business_hours": "Business hours"
+    }
+  },
+  "enquiries": {
+    "metadata": {
+      "title": "Chat Enquiries (This Browser) | Cloute Technologies"
+    },
+    "EnquiriesPage": {
+      "text01_chat_assistant": "Chat Assistant",
+      "text02_chat_enquiries": "Chat Enquiries",
+      "text03_enquiries_confirmed_in_the": "Enquiries confirmed in the website chat assistant on this browser."
+    }
+  },
+  "thankYou": {
+    "metadata": {
+      "title": "Thank You | Cloute Technologies"
+    },
+    "ThankYouPage": {
+      "text01_thank_you": "Thank You!",
+      "text02_your_message_has_been": "Your message has been received. Our team at Cloute Technologies will get back to you shortly.",
+      "text03_back_to_home": "Back to Home"
+    }
+  },
+  "leadDialog": {
+    "perks": {
+      "i0_text": "Quick reply from our team",
+      "i1_text": "Talk to real IT experts",
+      "i2_text": "Your details stay private"
+    },
+    "LeadDialog": {
+      "arialabel01_close": "Close",
+      "text02_talk_to_our_experts": "Talk to our experts",
+      "text03_let_s_build_something": "Let's Build Something ",
+      "text04_great": "Great",
+      "text05_together": " Together",
+      "text06_tell_us_what_your": "Tell us what your business needs — hardware, software, cloud, security or marketing — and our team will get back to you.",
+      "text07_prefer_to_talk": "Prefer to talk?",
+      "text08_thank_you": "Thank you, ",
+      "text09_your_enquiry_for": "Your enquiry for ",
+      "text10_has_been_sent_we": " has been sent. We've emailed you a confirmation and our team will contact you shortly.",
+      "text11_continue_on_whatsapp": "Continue on WhatsApp",
+      "text12_close": "Close",
+      "text13_get_in_touch": "Get in touch",
+      "text14_request_a_callback": "Request a Callback",
+      "text15_website": "Website",
+      "label16_full_name": "Full name",
+      "label17_phone_number": "Phone number",
+      "label18_email_address": "Email address",
+      "text19_i_m_interested_in": "I'm interested in",
+      "label20_how_can_we_help": "How can we help?",
+      "text21_something_went_wrong_please": "Something went wrong. Please try again, or call us at",
+      "text22_we_ll_only_use": "We'll only use your details to reply to this enquiry."
+    }
+  }
+}
